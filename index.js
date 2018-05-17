@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 // add items to a cart using two key-value pairs
-
+/*
 
 function addToCart(item) {
   //array below, each object in the array has two items in it
@@ -21,6 +21,7 @@ function addToCart(item) {
 
   return "${item} has been added to your cart."
 }
+*/
 
 function viewCart() {
   // write your code here
